@@ -1,1 +1,1 @@
-# Disease-prediction-by-ML
+# diseasepredictionbyml
